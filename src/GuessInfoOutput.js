@@ -1,4 +1,5 @@
 import React from "react";
+import "./GuessInfoOutput.css";
 
 export default function GuessInfoDisplay(props) {
   return (

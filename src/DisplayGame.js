@@ -1,4 +1,5 @@
 import React from "react";
+import "./DisplayGame.css";
 import GuessForm from "./GuessForm";
 import TemperatureOutput from "./TemperatureOutput";
 

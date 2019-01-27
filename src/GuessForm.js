@@ -1,4 +1,5 @@
 import React from "react";
+import "./GuessForm.css";
 
 export default function GuessForm(props) {
   return (
